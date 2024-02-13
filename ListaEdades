@@ -1,0 +1,5 @@
+listaEdad = [1964,2002,2003,2004,1972,1985,1981,2000]
+edad = []
+for lista in listaEdad:
+    edad = (2023 - lista)
+    print (edad)

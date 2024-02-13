@@ -1,0 +1,5 @@
+print("¿Cómo se llama?")
+nombre = input()
+print("Que edad tiene?")
+edad = input() 
+print(f"Hola {nombre} y el año que cumples 100")
